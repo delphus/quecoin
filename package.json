@@ -11,7 +11,7 @@
     "react-app-rewired": "^1.4.1",
     "react-scripts": "^1.1.1",
     "react-scripts-ts": "^2.13.0",
-    "truffle": "^4.0.6",
+    "truffle": "^5.7.8",
     "tslint-config-prettier": "^1.8.0",
     "typechain": "^0.1.2",
     "typescript": "^2.7.2"
